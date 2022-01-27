@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="JavaDataBase.jnlp">
+  <information>
+    <title>JavaDataBase</title>
+    <vendor>moham</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="JavaDataBase.jar" size="15617" download="eager" />
+    <jar href="lib\postgresql-42.3.1.jar" size="1015689" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="javadatabase.JavaDataBase"  name="JavaDataBase" />
+  <update check="always"/>
+</jnlp>
