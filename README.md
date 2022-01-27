@@ -1,7 +1,7 @@
 # Database Managment System
 Database Managment System using JavaFx.
 
-- You can Add any data you want .
+- You can Add any data you want . 
 - You can mofify data.
 - You can Delete any data.
 
